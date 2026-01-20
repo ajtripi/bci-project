@@ -1,0 +1,9 @@
+{
+  "session_id": "YYYY-MM-DD_subXX_sXX_condition",
+  "created_utc": "YYYY-MM-DDTHH:MM:SSZ",
+  "subject_id": "subXX",
+  "sampling_rate_hz": 250,
+  "channels": ["ch1", "ch2", "ch3", "ch4"],
+  "units": "uV",
+  "notes": "eyes closed resting state"
+}
