@@ -1,0 +1,21 @@
+# PlatformIO
+**/.pio/
+**/.vscode/
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Data and outputs
+data/
+figures/
+**/*.csv
+**/*.npy
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.svg
+**/*.pdf
+**/*.mp4
+**/*.mov
